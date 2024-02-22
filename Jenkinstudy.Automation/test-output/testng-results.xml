@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-22T13:14:49 GMT" name="Suite" finished-at="2024-02-22T13:14:49 GMT" duration-ms="44">
+    <groups>
+    </groups>
+    <test started-at="2024-02-22T13:14:49 GMT" name="Test" finished-at="2024-02-22T13:14:49 GMT" duration-ms="44">
+      <class name="fortesting.Jenkinsclass1">
+        <test-method signature="classforjenku()[pri:0, instance:fortesting.Jenkinsclass1@49049a04]" started-at="2024-02-22T13:14:49 GMT" name="classforjenku" finished-at="2024-02-22T13:14:49 GMT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classforjenku -->
+      </class> <!-- fortesting.Jenkinsclass1 -->
+      <class name="fortesting.Jenkinclass2">
+        <test-method signature="classforjenkumon()[pri:0, instance:fortesting.Jenkinclass2@53ce1329]" started-at="2024-02-22T13:14:49 GMT" name="classforjenkumon" finished-at="2024-02-22T13:14:49 GMT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classforjenkumon -->
+      </class> <!-- fortesting.Jenkinclass2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
