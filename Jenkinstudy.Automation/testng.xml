@@ -5,6 +5,7 @@
     <classes>
       <class name="fortesting.Jenkinclass2"/>
       <class name="fortesting.Jenkinsclass1"/>
+      <class name="fortesting.Jenkinsclass3"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
